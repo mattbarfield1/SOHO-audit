@@ -43,7 +43,7 @@ The project follows a phased audit workflow with dedicated folders for each majo
 * **Cloud Environment:** Assessed attached cloud accounts and services. [View File](/cloud-environment/cloud-security-audit.md)
 
 ### Phase 5: Remediation & Reporting
-* **Remediations:** Prioritized hardening steps and implementation guidance. [View File](/remediations/remediation-plan.md)
+* **Remediations:** Prioritized hardening steps and implementation guidance. [View File](/remediations/remediation-log-feb2026.md)
 * **Final Report & Lessons Learned:** Consolidated findings, risk summary, and key takeaways. [View File](/final-report/final-report-and-lessons-learned.md)
 
 ---
