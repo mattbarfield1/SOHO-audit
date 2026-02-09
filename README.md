@@ -37,7 +37,7 @@ The project follows a phased audit workflow with dedicated folders for each majo
 * **Authentication Audit:** Reviewed password policies, MFA/2FA adoption, and account hygiene. [View File](/authentication-audit/password-and-2FA-audit.md)
 
 ### Phase 3: Perimeter & Network Security
-* **Router & Network Audit:** Evaluated router config, firewall rules, remote access, and segmentation. [View File](/router-and-network-audit/router-audit.md)
+* **Router & Network Audit:** Evaluated router config, firewall rules, remote access, and segmentation. [View File](/router-and-network-audit/audit-findings.md)
 
 ### Phase 4: Cloud & Endpoint Review
 * **Cloud Environment:** Assessed attached cloud accounts and services. [View File](/cloud-environment/cloud-security-audit.md)
