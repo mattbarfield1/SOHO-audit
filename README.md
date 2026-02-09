@@ -56,7 +56,7 @@ The project follows a phased audit workflow with dedicated folders for each majo
 
 ---
 ## Connect With Me
-I'm actively seeking entry-level opportunities in defensive security, SOC analysis, GRC, or compliance where I can apply auditing, risk assessment, and documentation skills to real programs.
+I'm actively seeking opportunities in defensive security, SOC analysis, GRC, or compliance where I can apply auditing, risk assessment, and documentation skills.
 
 📫 **Contact:** mattbarfield1@gmail.com  
 💼 **LinkedIn:** [matthew-barfield-grc](https://www.linkedin.com/in/matthew-barfield-grc/)  
