@@ -7,7 +7,7 @@
 
 ## 2. Gateway Information
 - **ISP:** AT&T
-- **Device Model:** [e.g., BGW320 / BGW210]
+- **Device Model:** ATT Gateway
 - **Management IP:** (nnn.nnn.n.nnn)
 
 ## 3. Findings Summary Table
