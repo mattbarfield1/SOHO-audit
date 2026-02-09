@@ -31,7 +31,7 @@ This SOHO audit simulates a real-world small-network security review, highlighti
 The project follows a phased audit workflow with dedicated folders for each major area.
 
 ### Phase 1: Asset Inventory & Discovery
-* **Asset Inventory:** Cataloged devices, software, and data flows. [View File](/asset-inventory/data-classification.md)
+* **Asset Inventory:** Cataloged devices, software, and data flows. [View File](/asset-inventory)
 
 ### Phase 2: Authentication & Access Controls
 * **Authentication Audit:** Reviewed password policies, MFA/2FA adoption, and account hygiene. [View File](/authentication-audit/password-and-2FA-audit.md)
